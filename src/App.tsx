@@ -1,6 +1,7 @@
 import React from "react";
 import { Grommet } from "grommet";
 import PlaceHolderNav from "./Components/PlaceHolderNav";
+import MainBody from "./Components/MainBody";
 
 const theme = {
   global: {
@@ -16,6 +17,7 @@ function App() {
   return (
     <Grommet theme={theme}>
       <PlaceHolderNav />
+      <MainBody />
     </Grommet>
   );
 }
