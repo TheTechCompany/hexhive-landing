@@ -1,10 +1,9 @@
 import React from "react";
-import { Nav, Menu, Header, Button, Grommet } from "grommet";
-import { TreeOption } from "grommet-icons";
+import { Text, Menu, Header, Button, Grommet } from "grommet";
 
 const PlaceHolderNav = () => (
-  <Header background="#687161" margin="none" pad="none" elevation="small">
-    <Menu label="account" items={[{ label: "logout" }]} />
+  <Header background="#687161" margin="none" pad="small" elevation="large">
+    <Text> Login</Text>
   </Header>
 );
 

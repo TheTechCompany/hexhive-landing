@@ -16,7 +16,7 @@ const theme = {
 function App() {
   return (
     <>
-      <Grommet>
+      <Grommet theme={theme}>
         <PlaceHolderNav />
         <MainBody />
       </Grommet>
