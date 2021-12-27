@@ -15,10 +15,12 @@ const theme = {
 
 function App() {
   return (
-    <Grommet theme={theme}>
-      <PlaceHolderNav />
-      <MainBody />
-    </Grommet>
+    <>
+      <Grommet>
+        <PlaceHolderNav />
+        <MainBody />
+      </Grommet>
+    </>
   );
 }
 
