@@ -8,7 +8,7 @@ import Background from "./Components/Background";
 const theme = {
   global: {
     font: {
-      family: "DIN condensed",
+      family: "Roboto",
       size: "18px",
       height: "20px",
     },
