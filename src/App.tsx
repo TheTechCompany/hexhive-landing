@@ -1,9 +1,9 @@
 import React from "react";
 import { Box, Grommet } from "grommet";
-import PlaceHolderNav from "./Components/PlaceHolderNav";
-import MainBody from "./Components/MainBody";
+import PlaceHolderNav from "./components/PlaceHolderNav";
+import MainBody from "./components/MainBody";
 import "./App.css";
-import Background from "./Components/Background";
+import Background from "./components/Background";
 
 const theme = {
   global: {
