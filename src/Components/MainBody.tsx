@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Image, Grid, Paragraph } from "grommet";
+import { Box, Image, Grid, Paragraph, ResponsiveContext } from "grommet";
 import { TreeOption } from "grommet-icons";
 
 const MainBody = () => (
@@ -16,6 +16,7 @@ const MainBody = () => (
         src="/assets/HX2.svg"
       />
     </Box>
+
     <Box align="end" flex>
       <Image
         style={{
