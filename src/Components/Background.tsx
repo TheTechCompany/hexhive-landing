@@ -1,3 +1,5 @@
+/* Background Hexagons */
+
 import React from "react";
 
 export const Background = () => {

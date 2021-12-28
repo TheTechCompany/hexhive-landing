@@ -5,3 +5,13 @@ body {
 .Background {
   filter: grayscale(100%);
 }
+
+
+@font-face {
+  font-family: 'BebasKai';
+  src: url(./assets/fonts/bebas_kai/BebasKai.ttf);
+}
+
+* {
+  font-family: 'BebasKai', sans-serif;
+}

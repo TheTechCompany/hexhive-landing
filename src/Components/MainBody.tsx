@@ -1,3 +1,4 @@
+/* Hero Images */
 import React from "react";
 import { Box, Image, Grid, Paragraph, ResponsiveContext } from "grommet";
 import { TreeOption } from "grommet-icons";
