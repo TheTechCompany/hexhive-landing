@@ -6,7 +6,7 @@ const PlaceHolderNav = () => (
     background="#687161"
     margin="none"
     pad="small"
-    elevation="large"
+    elevation="small"
     justify="between"
   >
     <Image height="28vh" src="/assets/hivelogo.svg" color="#a1b593" />

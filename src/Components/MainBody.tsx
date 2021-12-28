@@ -19,7 +19,7 @@ const MainBody = () => (
     <Box align="end" flex>
       <Image
         style={{
-          height: "calc(98vh - 52px)",
+          height: "calc(98vh - 54px)",
           filter: "drop-shadow(4px 4px 3px rgba(0,0,0,0.4)) ",
         }}
         src="/assets/HX1.svg"
