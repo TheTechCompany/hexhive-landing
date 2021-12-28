@@ -1,3 +1,4 @@
+/* Placeholder */
 import React from "react";
 import { Text, Image, Header, Button, Grommet } from "grommet";
 
