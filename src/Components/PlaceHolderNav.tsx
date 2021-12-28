@@ -10,7 +10,7 @@ const PlaceHolderNav = () => (
     justify="between"
   >
     <Image height="28vh" src="/assets/hivelogo.svg" color="#a1b593" />
-    <Button color="#a1b593" label="Log In" href="/" />
+    <Button color="#a1b593" label="Log In" href="https://go.hexhive.io/dashboard" />
   </Header>
 );
 
